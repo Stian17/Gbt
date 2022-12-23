@@ -14,13 +14,13 @@ $ pip install stdiomask
 
 $ pip install --upgrade pip
 
-$ git clone https://github.com/Basari-ID/BMBF
+$ git clone https://github.com/Stian17/Gbt
 
 $ ls
 
-$ cd BMBF
+$ cd Gbt
 
-$ python BMBF.py
+$ python S.tian17.py
 
 # update
 
@@ -28,46 +28,4 @@ $ cd BMBF
 
 $ git pull
 
-$ python BMBF.py
-
-# info
-
-> on/of mode pesawat setiap
-
-> 400id dalam 10 detik
-
-> untuk menghindari spam ip
-
-> dan jika menampilkan
-
-> aplikasi dapat menguras
-
-> kuota dengan cepat ya
-
-> dan jika menambahkan
-
-> sandi tambahan dapat
-
-> memperlambat proses
-
-> cracking nya ya bang
-
-# baca
-
-> ini sc gratis bang
-
-> jadi hasilnya tidak
-
-> terlalu bagus ya
-
-> kalo mau yang hasil
-
-> ijo terus beli sc
-
-> yang premium bang
-
-> sc ini juga hasil
-
-> ijo cuman jarang 
-
-> nimkatin aja bang
+$ python S.tian17.py
