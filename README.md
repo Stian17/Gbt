@@ -18,7 +18,7 @@ $ ls
 
 $ cd Gbt
 
-$ python S.tian17.py
+$ python Stian17.py
 
 # update
 
@@ -26,4 +26,4 @@ $ cd BMBF
 
 $ git pull
 
-$ python S.tian17.py
+$ python Stian17.py
